@@ -19,6 +19,8 @@ This design is a 6-layer PCB, structured as follows:
 | View       | Image                   |
 |------------|--------------------------|
 | Front Left | ![Front Left](Image/FrontLeft.png) |
+| Block Diagram | ![Block Diagram](BlockDiagram/BlockDiagram.png) |
+| Block Diagram | ![Idea](BlockDiagram/Idea.png) |
 
 ### Related Documents
 This project interfaces with several key components and modules, detailed below:
@@ -37,11 +39,11 @@ This project interfaces with several key components and modules, detailed below:
 
 4. **SIM7600G-H**
    - A 4G LTE module supporting global bands, suitable for IoT applications.
-   - [Datasheet](https://simcom.ee/documents/SIM7600G-H/SIM7600G-H_Hardware_Design_V1.01.pdf)
+   - [Datasheet](https://www.simcom.com/product/SIM7600X-H.html)
 
 5. **Quectel 5G Mini PCIe**
    - A powerful 5G-capable module in a Mini PCIe form factor, ideal for high-speed data applications.
-   - [Datasheet](https://www.quectel.com/product/5g-series)
+   - [Datasheet](https://www.quectel.com/product/5g-redcap-rg255c-mini-pcie-series/)
 
 > **Note**: Full design files and technical specifications will be uploaded after the successful evaluation and official publication of the research in a scientific journal.
 
