@@ -1,6 +1,7 @@
-# 4G MiniPCIe Board with Microcontroller
+# 4G/5G Board with Orcad/Allegro v17.4
+This repository includes visual content, design ideas, PCB layouts, and block diagrams related to the research and development of a 4G MiniPCIe board integrated with a microcontroller. 
+> **The project is part of a scientific research study and will be officially reviewed and evaluated by June 2025. Only non-confidential files are provided here for preview.**
 
-This repository includes visual content, design ideas, PCB layouts, and block diagrams related to the research and development of a 4G MiniPCIe board integrated with a microcontroller. The project is part of a scientific research study and will be officially reviewed and evaluated by June 2025. Only non-confidential files are provided here for preview.
 
 ## Project Overview
 This design is a 6-layer PCB, structured as follows:
@@ -20,7 +21,7 @@ This design is a 6-layer PCB, structured as follows:
 |------------|--------------------------|
 | Front Left | ![Front Left](Image/FrontLeft.png) |
 | Block Diagram | ![Block Diagram](BlockDiagram/BlockDiagram.png) |
-| Block Diagram | ![Idea](BlockDiagram/Idea.png) |
+| Idea | ![Idea](BlockDiagram/Idea.png) |
 
 ### Related Documents
 This project interfaces with several key components and modules, detailed below:
