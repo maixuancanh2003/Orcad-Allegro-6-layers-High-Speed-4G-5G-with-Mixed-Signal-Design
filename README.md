@@ -2,6 +2,7 @@
 
 This repository includes visual content, design concepts, and PCB layout information for a high-performance 4G/5G board developed using Orcad/Allegro v17.4. As part of an ongoing scientific research project, this design integrates advanced microcontroller and network module components, along with industrial-grade I/O and mixed-signal capability, to support complex communication needs in industrial environments. Final project evaluation and publication are scheduled for June 2025.
 
+> **Note**: Full d esign files and technical specifications will be uploaded after the successful evaluation and official publication of the research in a scientific journal.
 ## Project Overview
 
 ### 6-Layer PCB Details
@@ -89,7 +90,6 @@ This project interfaces with several key components and modules, detailed below:
    - A powerful 5G-capable module in a Mini PCIe form factor, ideal for high-speed data applications.
    - [Datasheet](https://www.quectel.com/product/5g-redcap-rg255c-mini-pcie-series/)
 
-> **Note**: Full design files and technical specifications will be uploaded after the successful evaluation and official publication of the research in a scientific journal.
 
 ## Contact
 
