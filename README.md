@@ -11,10 +11,6 @@ This repository includes visual content, design concepts, and PCB layout informa
 - **Layer Spacing**: Optimized layer spacing for reduced interference and signal integrity.
 - **PCB Thickness**: 1.6mm to support multi-layer stability and heat dissipation.
 
-#### Signal Layers:
-- **Top and Bottom Layers**: Dedicated primarily for critical high-speed connections to microcontrollers and network modules.
-- **Internal Signal Layers**: Used for specific routing of analog and digital paths, with separation strategies to minimize interference.
-
 ### Mixed-Signal Design Analysis
 This board features a sophisticated mixed-signal design, where both analog and digital signals coexist within the same PCB layout. This requires special considerations to ensure reliable performance, minimize cross-talk, and preserve signal integrity in both the analog and digital domains.
 
